@@ -1,0 +1,8 @@
+﻿  sadasdaA.cpp
+c:\users\tbradysaunders\desktop\i don't have a cyber chip\dhfjhgf\dhfjhgf\sadasdaa.cpp(25): error C2065: 'i': undeclared identifier
+c:\users\tbradysaunders\desktop\i don't have a cyber chip\dhfjhgf\dhfjhgf\sadasdaa.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\tbradysaunders\desktop\i don't have a cyber chip\dhfjhgf\dhfjhgf\sadasdaa.cpp(26): error C2065: 'i': undeclared identifier
+c:\users\tbradysaunders\desktop\i don't have a cyber chip\dhfjhgf\dhfjhgf\sadasdaa.cpp(27): error C2143: syntax error: missing ';' before 'if'
+c:\users\tbradysaunders\desktop\i don't have a cyber chip\dhfjhgf\dhfjhgf\sadasdaa.cpp(31): error C2065: 'i': undeclared identifier
+c:\users\tbradysaunders\desktop\i don't have a cyber chip\dhfjhgf\dhfjhgf\sadasdaa.cpp(32): error C2065: 'i': undeclared identifier
+c:\users\tbradysaunders\desktop\i don't have a cyber chip\dhfjhgf\dhfjhgf\sadasdaa.cpp(27): warning C4390: ';': empty controlled statement found; is this the intent?
