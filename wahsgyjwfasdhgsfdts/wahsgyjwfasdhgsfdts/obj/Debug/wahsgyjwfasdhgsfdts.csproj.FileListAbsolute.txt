@@ -1,0 +1,10 @@
+C:\Users\TBradySaunders\Desktop\i don't have a cyber chip\wahsgyjwfasdhgsfdts\wahsgyjwfasdhgsfdts\bin\Debug\wahsgyjwfasdhgsfdts.exe.config
+C:\Users\TBradySaunders\Desktop\i don't have a cyber chip\wahsgyjwfasdhgsfdts\wahsgyjwfasdhgsfdts\bin\Debug\wahsgyjwfasdhgsfdts.exe
+C:\Users\TBradySaunders\Desktop\i don't have a cyber chip\wahsgyjwfasdhgsfdts\wahsgyjwfasdhgsfdts\bin\Debug\wahsgyjwfasdhgsfdts.pdb
+C:\Users\TBradySaunders\Desktop\i don't have a cyber chip\wahsgyjwfasdhgsfdts\wahsgyjwfasdhgsfdts\obj\Debug\wahsgyjwfasdhgsfdts.csprojAssemblyReference.cache
+C:\Users\TBradySaunders\Desktop\i don't have a cyber chip\wahsgyjwfasdhgsfdts\wahsgyjwfasdhgsfdts\obj\Debug\wahsgyjwfasdhgsfdts.Form1.resources
+C:\Users\TBradySaunders\Desktop\i don't have a cyber chip\wahsgyjwfasdhgsfdts\wahsgyjwfasdhgsfdts\obj\Debug\wahsgyjwfasdhgsfdts.Properties.Resources.resources
+C:\Users\TBradySaunders\Desktop\i don't have a cyber chip\wahsgyjwfasdhgsfdts\wahsgyjwfasdhgsfdts\obj\Debug\wahsgyjwfasdhgsfdts.csproj.GenerateResource.cache
+C:\Users\TBradySaunders\Desktop\i don't have a cyber chip\wahsgyjwfasdhgsfdts\wahsgyjwfasdhgsfdts\obj\Debug\wahsgyjwfasdhgsfdts.csproj.CoreCompileInputs.cache
+C:\Users\TBradySaunders\Desktop\i don't have a cyber chip\wahsgyjwfasdhgsfdts\wahsgyjwfasdhgsfdts\obj\Debug\wahsgyjwfasdhgsfdts.exe
+C:\Users\TBradySaunders\Desktop\i don't have a cyber chip\wahsgyjwfasdhgsfdts\wahsgyjwfasdhgsfdts\obj\Debug\wahsgyjwfasdhgsfdts.pdb
